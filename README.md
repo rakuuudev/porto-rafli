@@ -67,9 +67,6 @@ It showcases my hands-on experience with Linux server setup and service manageme
 - Troubleshooting guides
 - Architecture diagrams
 
-## 📊 Network Topology
-
-[Include diagram showing complete infrastructure]
 
 ## 🎯 Purpose
 
