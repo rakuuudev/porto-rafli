@@ -16,4 +16,69 @@ It showcases my hands-on experience with Linux server setup and service manageme
 - Migration to Nginx
 - Basic service logging
 
-See individual folders for full details.
+### Day 3 — Automation & Monitoring
+* Bash scripting for system tasks
+* Automated backups
+* System monitoring with htop
+* Log analysis with journalctl
+
+### Day 4 — Windows Server & Active Directory
+* AD DS deployment
+* Organizational structure (OUs, users, groups)
+* DNS and DHCP services
+* Domain management
+
+### Day 5 — Network Infrastructure (MikroTik RouterOS)
+* Routing configuration
+* Firewall rules and NAT
+* Network security hardening
+* Traffic monitoring
+
+### Day 6 — Integration & Testing
+* Cross-platform connectivity
+* Service integration validation
+* Network topology documentation
+* Troubleshooting scenarios
+
+## 🛠️ Skills Demonstrated
+
+**Linux Administration:**
+- System installation and configuration
+- Service management (systemd)
+- Web server deployment (Nginx, Apache)
+- Bash scripting and automation
+- Monitoring and logging
+
+**Windows Server:**
+- Active Directory Domain Services
+- DNS and DHCP management
+- User and group administration
+- Domain controller operations
+
+**Networking:**
+- MikroTik RouterOS configuration
+- Firewall rules and policies
+- NAT and routing
+- Network security implementation
+
+**Documentation:**
+- Technical writing
+- Step-by-step procedures
+- Troubleshooting guides
+- Architecture diagrams
+
+## 📊 Network Topology
+
+[Include diagram showing complete infrastructure]
+
+## 🎯 Purpose
+
+This lab serves as a practical demonstration of my system administration
+capabilities across multiple platforms, suitable for IT Support and 
+System Administrator roles.
+
+---
+
+**Contact:** [Your contact info]  
+**LinkedIn:** [Your LinkedIn]
+**Status:** Actively seeking IT Support / System Administrator position in Kalimantan Selatan
